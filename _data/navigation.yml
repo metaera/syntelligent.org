@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "GitHub"
+    target: _blank
+    url: https://github.com/metaera
+  - title: "Blog"
+    url: /blog/
+  - title: "Linkedin"
+    target: _blank
+    url: https://www.linkedin.com/company/synthetic-intelligence-association/
+  - title: "Search"
+    url: /search/
+  - title: "About"
+    url: /about/
