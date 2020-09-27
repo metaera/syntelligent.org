@@ -23,7 +23,7 @@ feature_row:
     excerpt: "Connect with us"
     url: "https://www.linkedin.com/company/synthetic-intelligence-association"
     btn_label: "Chat"
-  - image_path: /assets/images/youtube.jpg
+  - image_path: /assets/images/youtube.png
     alt: "Youtube"
     title: "Youtube"
     excerpt: "See us live on youtube"
