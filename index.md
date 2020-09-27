@@ -16,19 +16,19 @@ feature_row:
     title: "Read the Blog"
     excerpt: "More posts from us"
     url: "/blog/"
-    btn_label: "Blog"
+    btn_label: "Read"
   - image_path: /assets/images/linkedIn.jpg
     alt: "LinkedIn"
     title: "LinkedIn"
     excerpt: "Connect with us"
     url: "https://www.linkedin.com/company/synthetic-intelligence-association"
-    btn_label: "Chat"
+    btn_label: "Connect"
   - image_path: /assets/images/youtube.png
     alt: "Youtube"
     title: "Youtube"
     excerpt: "See us live on youtube"
     url: "https://www.youtube.com/channel/UCifNXjrpTyELETVOy_6Oshg"
-    btn_label: "Create a Post"
+    btn_label: "Watch"
 
 ---
 
