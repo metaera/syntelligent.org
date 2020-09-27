@@ -4,7 +4,7 @@ permalink: /blog/2020/09/27/synthetic-intelligence-association
 author: max
 title:  "Synthetic Intelligence Association"
 excerpt: ""
-date:   2020-06-16 00:00:00 +1100
+date:   2020-09-27 00:00:00 +1100
 categories:
   - blog
 tags:
