@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /blog/2020/09/27/synthetic-intelligence-association
-author: max
+author: ken
 title:  "Synthetic Intelligence Association"
 excerpt: ""
 date:   2020-09-27 00:00:00 +1100
