@@ -1,5 +1,5 @@
 
-$CONATINER_NAME = "build-gov"
+$CONATINER_NAME = "build-si"
 
 $DOCKER_INSPECT_CHECK=$( docker inspect --format "{{.State.Status}}" $CONATINER_NAME )
 
