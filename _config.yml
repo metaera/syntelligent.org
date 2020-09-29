@@ -78,7 +78,7 @@ analytics:
     tracking_id          : UA-179142842-1
 
 advertising:
-  show                   : true
+  show                   : false
 
 # Site Author
 author:

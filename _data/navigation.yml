@@ -5,9 +5,12 @@ main:
     url: https://github.com/metaera
   - title: "Blog"
     url: /blog/
-  - title: "Linkedin"
+  - title: "LinkedIn"
     target: _blank
     url: https://www.linkedin.com/company/synthetic-intelligence-association/
+  - title: "Youtube"
+    target: _blank
+    url: https://www.youtube.com/channel/UCifNXjrpTyELETVOy_6Oshg
   - title: "Search"
     url: /search/
   - title: "About"
