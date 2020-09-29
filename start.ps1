@@ -4,4 +4,4 @@ Write-Host "Starting Docker container to run build server"
 docker run --name build-si -d -p 4000:4000 -p 35729:35729 -v ${PWD}:/build/source:rw aemdesign/centos-java-buildpack sleep inf
 
 #connect to container
-docker exec -it build-gov bash --login
+docker exec -it build-si bash --login
