@@ -27,7 +27,7 @@ feature_row:
     alt: "Youtube"
     title: "Youtube"
     excerpt: "See us live on youtube"
-    url: "https://www.youtube.com/channel/UCifNXjrpTyELETVOy_6Oshg"
+    url: "https://www.youtube.com/channel/UCifNXjrpTyELETVOy_6Oshg/featured?view_as=subscriber"
     btn_label: "Watch"
 
 ---
