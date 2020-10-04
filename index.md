@@ -29,6 +29,12 @@ feature_row:
     excerpt: "See us live on youtube"
     url: "https://www.youtube.com/channel/UCifNXjrpTyELETVOy_6Oshg/featured?view_as=subscriber"
     btn_label: "Watch"
+  - image_path: /assets/images/cards/si-live-playlist.jpg
+    alt: "SI Live Playlist"
+    title: "SI Live Playlist"
+    excerpt: "SI Live Playlist"
+    url: "https://www.youtube.com/playlist?list=PL0-kJ_ZjGy0zCPdgt0KIPHqBfb7y1mLf9"
+    btn_label: "Watch"
 
 ---
 
